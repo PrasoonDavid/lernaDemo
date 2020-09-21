@@ -1,0 +1,11 @@
+{
+  "name": "ela-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"This is the test from Ela-lib\" "
+  },
+  "author": "",
+  "license": "ISC"
+}

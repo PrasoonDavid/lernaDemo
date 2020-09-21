@@ -1,0 +1,11 @@
+{
+  "name": "k3-cms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"This is the test from K3-CMS\" "
+  },
+  "author": "",
+  "license": "ISC"
+}
